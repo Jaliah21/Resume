@@ -1,4 +1,4 @@
-# Resume.github
+# Resume
 <!DOCTYPE html>
 <html>
 <head>
