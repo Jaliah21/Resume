@@ -5,9 +5,6 @@
 <br>Baguio City, Philippines 2600
 <br>Email: cjaliahshalmai@gmail.com<
 
-</style>
-</head>
-<body>
 
 <h2>Objectives</h2>
 <p>Talented and motivated student with industrious and systematic approach to learning information.</p>
@@ -35,5 +32,3 @@
 <h2>Activities</h2>
 <p>Varsity player for 4 years, Member of Performing Arts Club for 2 years at Santo Tomas Catholic School</p>
 
-</body>
-</html>
