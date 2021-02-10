@@ -1,8 +1,4 @@
 # Resume
-<!DOCTYPE html>
-<html>
-<head>
-
 
 <h1>JALIAH SHALMAI Z. CAACBAY</h1>
 <br>Contact: 09487168986
